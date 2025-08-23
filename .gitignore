@@ -82,3 +82,8 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Next.js build artifacts (should not be committed)
+**/.next/
+**/out/
+**/dist/
